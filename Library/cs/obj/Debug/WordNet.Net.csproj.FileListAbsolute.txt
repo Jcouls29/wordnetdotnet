@@ -1,0 +1,8 @@
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\bin\Debug\WordNetClasses.dll.config
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\bin\Debug\WordNetClasses.dll
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\bin\Debug\WordNetClasses.pdb
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\bin\Debug\WordNetClasses.dll.xml
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\obj\Debug\WordNetClasses.dll
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\obj\Debug\WordNetClasses.dll.xml
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\obj\Debug\WordNetClasses.pdb
+C:\SourceCode\Repos\wordnetdotnet\Library\cs\obj\Debug\WordNet.Net.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\bin\Debug\WordsMatching.exe
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\bin\Debug\WordsMatching.pdb
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\bin\Debug\WordNetClasses.dll
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\bin\Debug\WordNetClasses.pdb
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\obj\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\obj\Debug\WordsMatching.exe
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\obj\Debug\WordsMatching.pdb
+C:\SourceCode\Repos\wordnetdotnet\Projects\Thanh\bin\Debug\WordsMatching.exe.config
